@@ -1,0 +1,1 @@
+function somar(){return 5}console.log(somar());
